@@ -1,2 +1,3 @@
-# project1
-maven project
+# maven-project
+
+Simple Vinay Project
